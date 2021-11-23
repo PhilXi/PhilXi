@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Philipp 
-- 👀 I’m interested in Python, SQL(MySQL) and Flutter
+- 👀 I’m interested in Python [Discord.py development] and Flutter
 - 🌱 ---
 <!---
 PhilXi/PhilXi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
