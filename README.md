@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Philipp 
+- 👋 Hi, I’m Phil (or Philipp)
 - 👀 I’m interested in Python [Discord.py development] and Flutter
 - 🌱 Currently I'm working on a time management tool for a Discord Bot.
 -  
