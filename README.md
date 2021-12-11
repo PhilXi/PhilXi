@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python [Discord.py development] and Flutter.
 - 🌱 Currently I'm working on a time management tool for a Discord Bot.
 -> You can reach me through my Discord account [PhiI#6825] (just copy the name here)
-- Challenge myself with AdventOfCode 2021 [18 Stars] => average length: 81 lines.
+- Challenge myself with AdventOfCode 2021 [20 Stars] => average length: 81 lines.
 - 
 <!---
 PhilXi/PhilXi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
