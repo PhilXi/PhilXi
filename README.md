@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phil (or Philipp).
+- 👋 Hi, I’m Phil.
 
 <!---
 PhilXi/PhilXi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
